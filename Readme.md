@@ -77,7 +77,7 @@ The dataset includes advertising and post-level data from Facebook and LinkedIn 
 - Tableau dashboard for trend analysis and audience insights
 
 ### 📸 Dashboard Preview
-![Media Analytics](images/social_media_dashboard.png)
+![Media Analytics]([social_media_dashboard.png](https://github.com/mdqasim8051/social-media-ads-performance-analysis/blob/4af18a37d7f43f2c02082325e8de9dece7e271a1/Facebook%20dashboard.PNG)
 
 ---
 
